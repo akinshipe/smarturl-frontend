@@ -12,7 +12,11 @@ When both frontend and backend are correctly deployed, it should work exactly li
 
 <h2>Plans for production and scalability</h2>
 1.	 For production, most of the components can be further broken down into several child components, and some can be implemented as functional components. Functional components are most time pure, so they are faster.
+
+
 2.	In the current version some CSS styling were implemented as inline, in production, putting all CSS in the CSS file is a better alternative.
+
+3. Seperating bussiness logic from templating is a good coding practice I used a lot in this Ap. But I am sure I am still guilty of coupling them together in some places.
 
 
 

@@ -1,4 +1,4 @@
-# smarturl-Frontend
+# Smarturl-Frontend
  React App Frontend for smarturl
 
 

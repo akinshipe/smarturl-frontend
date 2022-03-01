@@ -31,7 +31,7 @@ Their current default values are the default for React and Django for localhost.
 Ensure the paths end with a backslash(I could have just written a line of code to do this.)
 
 
-3.	If you are deploying on localhost, running npm start at this point should start the development server and open up a browser tab showing the application.
+3.	If you are deploying on localhost, running npm start at this point should start the development server and open up a browser tab showing the application. Please ensure you clear all entries in your localhosts's localStorage as I have noticed from experience that having entries on the localstorage of your localhost while deploying another application can cause unexpected behaviour
 
 
 

@@ -21,7 +21,7 @@ When both frontend and backend are correctly deployed, it should work exactly li
 
 
 <h2>Deployment Instruction</h2>
-1.	Pull the resipotory to your local machine, cd into the project directory in your terminal and run npm install. The required modules would be installed in the node_modules directory in the project directory.
+1.	Pull the repository to your local machine, cd into the project directory in your terminal and run npm install. The required modules would be installed in the node_modules directory in the project directory.
 
 
 2.	The Base.js file in src/Base.js file includes two constants.
